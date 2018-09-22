@@ -5,34 +5,34 @@ Each tiny country is implemented as a circle without about the same diameter as 
 
 ## List of additional countries:
 
-Andorra
-Antigua and Barbuda
-Bahrain
-Barbados
-Cape Verde
-Comoros
-Dominica
-Grenada
-Kiribati
-Liechtenstein
-Maldives
-Malta
-Marshall Islands
-Mauritius
-Micronesia
-Monaco
-Nauru
-Palau
-Saint Kitts and Nevis
-Saint Lucia
-Saint Vincent and the Grenadines
-San Marino
-Sao Tome and Principe
-Seychelles
-Singapore
-Tonga
-Tuvalu
-Vatican City
+* Andorra
+* Antigua and Barbuda
+* Bahrain
+* Barbados
+* Cape Verde
+* Comoros
+* Dominica
+* Grenada
+* Kiribati
+* Liechtenstein
+* Maldives
+* Malta
+* Marshall Islands
+* Mauritius
+* Micronesia
+* Monaco
+* Nauru
+* Palau
+* Saint Kitts and Nevis
+* Saint Lucia
+* Saint Vincent and the Grenadines
+* San Marino
+* Sao Tome and Principe
+* Seychelles
+* Singapore
+* Tonga
+* Tuvalu
+* Vatican City
 
 ## Other differences from the default map.
 * The key for each country is not the ISO country code, but an arbitrary short string (sorry)
